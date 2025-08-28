@@ -17,8 +17,8 @@ A simple Python script that generates QR codes for any given URL or text using t
   - Install dependencies: `pip install qrcode pillow`
   - Run the script: `python mycode.py`
 - Preview:
-  ![QR Code Example]("portfolio_qr.png")
 
+  ![QR Code Example](portfolio_qr.png)
 ---
 
 ## Upcoming Projects will be updated
